@@ -1,1 +1,1 @@
-NFT MARKET NOTES
+# Web 3.0 Application, NFT marketplace.
